@@ -1,6 +1,8 @@
 # intro-to-git-and-github
 March 5 2019 workshop
+
 Ricky Patterson
+
 Research Data Services (http://data.library.virginia.edu)
 
 # What We Will Cover
